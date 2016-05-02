@@ -1,3 +1,5 @@
+--Editando o arquivo
+
 SET serveroutput ON
 SET linesize 10000
 
